@@ -6,6 +6,7 @@ Names of editors:
 * Dr. S
 * Abhigya Tamang 
 * Shuvechchha Kunwar
+* Monika Kunwar
 * Sujata Bhandari
 * Crisina Pokhrel
 * Sandipa Lamichhane
