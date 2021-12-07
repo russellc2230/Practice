@@ -3,6 +3,11 @@ This is a practice repository for students to try out GitHub and learn about sou
 
 Names of editors:
 
-Dr. S
-
-Simran Parajulee
+* Dr. S
+* Simran Parajulee
+* Abhigya Tamang 
+* Shuvechchha Kunwar
+* Monika Kunwar
+* Sujata Bhandari
+* Crisina Pokhrel
+* Sandipa Lamichhane
