@@ -6,9 +6,9 @@ Names of editors:
 
 * Dr. S
 * Simran Parajulee
-* Abhigya Tamang 
 * Shuvechchha Kunwar
 * Monika Kunwar
 * Sujata Bhandari
 * Crisina Pokhrel
 * Sandipa Lamichhane
+* Abhigya Tamang 
