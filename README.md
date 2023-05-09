@@ -12,3 +12,4 @@ Names of editors:
 * Crisina Pokhrel
 * Sandipa Lamichhane
 * Abhigya Tamang 
+* Joselinne Piedras-Sarabia
