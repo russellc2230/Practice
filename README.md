@@ -12,3 +12,4 @@ Names of editors:
 * Sujata Bhandari
 * Crisina Pokhrel
 * Sandipa Lamichhane
+* Mai Nguyen
